@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fee7a3eafc9789a42801720ea42ee814, type: 3}
+  m_Name: PlambGameManagerSettings
+  m_EditorClassIdentifier: 
+  maxLoopDuration: 5
+  maxClones: 8
+  cloneMaterials:
+  - {fileID: 2100000, guid: f0f2cd4a8a5dc9c45903af60f9379a22, type: 2}
+  - {fileID: 2100000, guid: f6b8d0a25ed802b4ea6e7bad5a78495e, type: 2}
+  - {fileID: 2100000, guid: ea2642b0cb9451642ad890fb24846786, type: 2}
+  - {fileID: 2100000, guid: 4e405dbf102a6db44870cb507e7ee91d, type: 2}
+  - {fileID: 2100000, guid: a2216d1a18c029742b99a64bbe0598d2, type: 2}
+  - {fileID: 2100000, guid: 1735021696d126b43a4dce9ea3428c7b, type: 2}
+  - {fileID: 2100000, guid: 73b2624bdfde18b4283839056c2e7ea0, type: 2}
+  - {fileID: 2100000, guid: e8d776f15dd65064aa03eea129c38981, type: 2}
+  particleMaterials: []
+  cloneColors:
+  - {r: 0.25882354, g: 0.5568628, b: 0.24705884, a: 0.57254905}
+  - {r: 0.24705884, g: 0.5568628, b: 0.44705886, a: 0.56078434}
+  - {r: 0.2627451, g: 0.24705884, b: 0.5568628, a: 0.5176471}
+  - {r: 0.36078432, g: 0.24705884, b: 0.5568628, a: 0.5294118}
+  - {r: 0.5568628, g: 0.24705884, b: 0.48627454, a: 0.50980395}
+  - {r: 0.5568628, g: 0.24705884, b: 0.2784314, a: 0.5294118}
+  - {r: 0.5568628, g: 0.36078432, b: 0.24705884, a: 0.54509807}
+  - {r: 0.5568628, g: 0.54509807, b: 0.24705884, a: 0.54509807}
+  uiLiquidsMayMix: 0
